@@ -1,3 +1,4 @@
+Fixed typo in documentation
 <<<<<<< HEAD
 ## Environment
 
