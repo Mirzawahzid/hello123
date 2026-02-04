@@ -1,3 +1,6 @@
+## Environment
+
+This project runs in a production-ready environment.
 ## Feature: Login
 
 This branch focuses on authentication and user login flow.
